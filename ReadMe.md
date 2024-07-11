@@ -1,5 +1,5 @@
 # 💫 Sobre mim:
-Sou estudante de programação em PHP e JavaScript, Sou entusiasta dedicado, apaixonado pela arte de criar soluções web inovadoras e dinâmicas. Possuo uma mentalidade curiosa, sempre ansioso para explorar novas técnicas e tendências no mundo do desenvolvimento web.
+Sou estudante Análise e Desenvolvimento de Sistemas, Sou entusiasta dedicado, apaixonado pela arte de criar soluções web inovadoras e dinâmicas. Possuo uma mentalidade curiosa, sempre ansioso para explorar novas técnicas e tendências no mundo do desenvolvimento web.
 
 
 ## 🌐 Socials:
